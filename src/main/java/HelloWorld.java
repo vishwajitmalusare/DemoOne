@@ -3,5 +3,7 @@ public class HelloWorld {
         System.out.println("Hello World !");
         System.out.println("Changed message in local Repository");
         System.out.println("Merge to master....");
+        System.out.println("Merge to master....Change in function");
+
     }
 }
