@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String args[]) {
         System.out.println("Hello World !");
-        System.out.println("Changed message in local repository");
+        System.out.println("Changed message in local Repository");
     }
 }
